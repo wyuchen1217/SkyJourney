@@ -27,6 +27,7 @@ public class Login extends AppCompatActivity {
     ProgressBar progressBar;
     TextView textView;
 
+       /*
     @Override
     public void onStart() {
         super.onStart();
@@ -39,7 +40,7 @@ public class Login extends AppCompatActivity {
 
         }
     }
-
+*/
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="@string/my_flight"
+        android:id="@+id/MyFlight"
+        android:icon="@drawable/baseline_flight_24"
+        />
+    <item
+        android:title="@string/map"
+        android:id="@+id/Map"
+        android:icon="@drawable/baseline_map_24"
+        />
+    <item
+        android:title="@string/profile"
+        android:id="@+id/Profile"
+        android:icon="@drawable/baseline_person_24"
+        />
+</menu>
