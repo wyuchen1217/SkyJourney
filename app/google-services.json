@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "442750879256",
+    "project_id": "skyjourney-8dc49",
+    "storage_bucket": "skyjourney-8dc49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442750879256:android:613e6f03164947423a656d",
+        "android_client_info": {
+          "package_name": "com.example.skyjourney"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuGXdMTjsZ4E0YXytX58VhqnSkpE1FNJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
